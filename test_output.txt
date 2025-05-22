@@ -1,0 +1,43 @@
+
+=== Test 1: JOIN Alice ===
+Alice joined!Connected to server!
+
+Server Alice joined!
+
+
+
+=== Test 2: JOIN Alice Again (Already Joined) ===
+
+
+=== Test 3.1: JOIN User2 ===
+
+
+=== Test 3.2: JOIN User3 ===
+
+
+=== Test 3.3: JOIN User4 ===
+
+
+=== Test 3.4: JOIN User5 ===
+
+
+=== Test 3.5: JOIN User6 ===
+
+
+=== Test 3.6: JOIN User7 ===
+
+
+=== Test 3.7: JOIN User8 ===
+
+
+=== Test 3.8: JOIN User9 ===
+
+
+=== Test 3.9: JOIN User10 ===
+
+
+=== Test 4: 11th User Exceeding Limit ===
+
+
+=== Test 5: LIST after JOIN ===
+

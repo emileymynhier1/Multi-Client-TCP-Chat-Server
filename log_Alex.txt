@@ -1,0 +1,5 @@
+[2025-04-28 22:08:15] INFO: Message sent by Blue to Alex - "Hey!"
+[2025-04-28 22:11:04] INFO: Broadcast by Alex - "Hey"
+[2025-04-28 22:41:36] INFO: Broadcast by Alex - "Broadcasting: WIZARDS SUCK I KILL WIZARDS"
+[2025-04-28 22:41:49] INFO: Message sent by Harri to Alex - "IS THAT A THREAT?"
+[2025-04-28 22:42:07] INFO: Message sent by Alex to Harri - "COME AND FIND OUT"

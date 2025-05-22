@@ -1,0 +1,1 @@
+[2025-04-28 22:29:57] INFO: Broadcast by Bind - "everyone im bored"

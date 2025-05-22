@@ -1,0 +1,3 @@
+[2025-04-28 22:41:14] INFO: Broadcast by Harri - "Broadcasting: Hello I am a wizard from England"
+[2025-04-28 22:41:49] INFO: Message sent by Harri to Alex - "IS THAT A THREAT?"
+[2025-04-28 22:42:07] INFO: Message sent by Alex to Harri - "COME AND FIND OUT"
